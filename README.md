@@ -1,5 +1,5 @@
 # Yang jaeseon 😉
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeseon510&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeseon510&show_icons=true&theme=white)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeseon510)](https://solved.ac/jaeseon510/)
 
 # 💪Skills
