@@ -1,15 +1,12 @@
 <h1> Yang jaeseon 👋 </h1>
 <p>
   <em>
-    끊임없이 성장하며 새로운 기술을 배우는 개발자입니다. </em>👨‍💻<em><br>
-    사람들에게 편리함을 더하는 소프트웨어를 만들기 위해 노력하고 있습니다.
+
   </em>  
 </p>
 
 [![jaeseon510's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseon510&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jaeseon510)
 
-[![jaeseon510's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeseon510)](https://github.com/jaeseon510/github-readme-stats)
-   
 ### Algorithm 📖
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jaeseon510)](https://solved.ac/jaeseon510)
@@ -35,9 +32,20 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<br>
+
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgresSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>  
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>  
 
 </div>
 
 ### Contacts 📫
 
 * Email: jaeseon510@naver.com
+* Instagram : https://www.instagram.com/jaeseon510/
