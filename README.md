@@ -7,12 +7,14 @@
 </p>
 
 [![jaeseon510's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseon510&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jaeseon510)
-   
+
+[![jaeseon510's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeseon510)](https://github.com/jaeseon510/github-readme-stats)
    
 ### Algorithm 📖
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jaeseon510)](https://solved.ac/jaeseon510)
 * solvedac: [jaeseon510](https://solved.ac/profile/jaeseon510)
+
 
 ### Tech stack 🛠
 
