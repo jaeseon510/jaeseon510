@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -36,12 +37,6 @@
 
 ### 백준 📖
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jaeseon510)](https://solved.ac/jaeseon510)
-
----
-
-2022 문화고등학교(사물인터넷학과) 입학<br>
-2024 클리카 인턴쉽(백엔드)<br>
-2025 한성대 입학<br>
 
 ---
 ### Contacts 📫
